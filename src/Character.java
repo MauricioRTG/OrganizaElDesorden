@@ -26,5 +26,5 @@ public abstract class Character {
     public void setMovementBehavior(MovementBehavior mB){
   	movement = mB;
     }
-    //public abstract void performMovement();
+    
 }

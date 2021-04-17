@@ -21,5 +21,7 @@ public class CharacterTest {
         character2.setWeaponBehavior(new KnifeBehavior());
         character2.setMovementBehavior(new RunBehavior());
         character2.showCharacter();
+        character3.showCharacter();
+        character4.showCharacter();
     }
 }
